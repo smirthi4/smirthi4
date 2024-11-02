@@ -4,7 +4,7 @@
 - 💞️ I’m looking for internships
 - 📫 reach me - smirthi4805@gmail
 - 😄 Pronouns:she/her
-- ⚡ Fun fact:pyhton taught me more than any snake ever could 
+- ⚡ Fun fact:PYHTON taught me more than any snake ever could 
 
 <!---
 smirthi4/smirthi4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
